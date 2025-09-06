@@ -1,0 +1,40 @@
+# EcoFinds ♻
+
+EcoFinds is a mobile-first app prototype built on *Glide* that allows users to *buy and sell second-hand products* easily.  
+Our goal is to promote *sustainability, **affordability, and a **circular economy* by giving pre-loved items a new life.
+
+🌍 Live App: [Click here to open EcoFinds](https://cheap-number-4812.glide.page/dl/efe1e3)  
+
+---
+
+## ✨ Features
+- 📸 Upload second-hand products with images
+- 🛒 Buy items listed by others
+- 🔍 Search & explore available products
+- ♻ Promotes reuse and eco-friendly living
+
+---
+
+## 📊 Tech Stack
+- *Glide* (No-code app builder)
+- *Google Sheets* (as backend database)
+- *GitHub* (for documentation & open sharing)
+
+---
+
+## 🚀 How It Works
+1. Open the EcoFinds app from the link above.
+2. Browse listed items or upload your own.
+3. Connect with sellers/buyers for exchange.
+
+---
+
+## 📷 Screenshots
+(Add screenshots of your app here)  
+Example:  
+/assets/homepage.png  
+/assets/product-list.png  
+
+---
+
+## 📂 Repository Structure
